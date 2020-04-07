@@ -1,0 +1,73 @@
+body{
+  text-align: center;
+}
+b{
+  text-decoration: underline;
+}
+/* title */
+
+#title{
+  background-color: #ef962d;
+  padding: 3rem 2rem 2rem;
+}
+.row{
+  margin: 2rem 0;
+}
+.navbar-brand{
+  padding: 0 1rem;
+  font-size: 2rem;
+}
+.nav-item{
+  padding: 0 1rem;
+  font-size: 1.2rem;
+}
+
+h1{
+  margin: 10rem 0;
+  color: #fff;
+}
+
+/* points */
+#points{
+  padding: 4rem 2rem;
+}
+.point-icon{
+  color:  #ef962d;
+}
+.point-icon:hover{
+  color:  #ef962d;
+}
+.point-icon{
+  color:  #000;
+}
+/* memories */
+
+#memories{
+  background-color: #9c5518;
+  padding: 3rem;
+  color: #fff;
+}
+.images{
+  height: 300px;
+}
+.carousel-indicators{
+  position: relative;
+  top: 0;
+
+}
+/* footer */
+
+#footer{
+  background-color: #5a3f11;
+  padding: 4rem;
+}
+label{
+  font-size: 4rem;
+  color: #fff;
+}
+.form-title{
+  font-size: 1.5rem;
+}
+.text-box{
+  padding: 2rem 2rem 3rem;
+}
